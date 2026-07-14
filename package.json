@@ -1,0 +1,28 @@
+{
+  "name": "backend-project",
+  "version": "1.0.0",
+  "description": "creating server",
+  "homepage": "https://github.com/suhani821/backend-projects#readme",
+  "bugs": {
+    "url": "https://github.com/suhani821/backend-projects/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/suhani821/backend-projects.git"
+  },
+  "license": "ISC",
+  "author": "suhani singhal",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": " Error: no test specified",
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "create": "^0.5.5",
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1",
+    "npm": "^11.18.0",
+    "vite": "^8.1.4"
+  }
+}
