@@ -1,6 +1,6 @@
 const { configDotenv } = require('dotenv');
 const express =require('express')
-require('dotenv').config()
+ require('dotenv').config()
 
 const app = express();
  const port="5000"
